@@ -1,0 +1,24 @@
+﻿
+body {
+    font-family: Arial, sans-serif;
+    margin: 2em;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+h3 {
+    color: Highlight;
+}
+ul {
+    margin-left: 1.5em;
+}
+
+.exercise {
+    margin-top: 2em;
+    padding: 1em;
+    border-top: 1px solid #ccc;
+}
+
+
